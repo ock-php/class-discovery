@@ -20,6 +20,7 @@
     },
     "require": {
         "php": ">=8.3",
+        "ock/class-files-iterator": "self.version",
         "ock/helpers": "self.version",
         "ext-json": "*"
     },
